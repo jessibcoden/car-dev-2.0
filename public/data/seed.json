@@ -1,0 +1,28 @@
+{
+  "careerDevelopment": {
+    "cohorts": {
+      "cohort20": {
+        "id": 20,
+        "title": "Cohort 20",
+        "stack": "Node",
+        "careerDevStartDate": "08/25/17",
+        "demoDay": "11/10/17"
+      },
+      "cohort21": {
+        "id": 21,
+        "title": "Cohort 21",
+        "stack": "Ruby",
+        "careerDevStartDate": "",
+        "demoDay": ""
+      }
+    },
+    "reminders" : {
+      "reminder1": {
+        "cid": 20,
+        "text": "Yo",
+        "startDisplay": "08/25/17",
+        "endDisplay": "08/30/17"
+      }
+    }
+  }
+}
