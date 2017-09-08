@@ -6,7 +6,7 @@ app.config(function($routeProvider) {
 		})
 		.when('/cohorts', {
 			templateUrl: 'partials/cohorts.html',
-			controller: 'CohortsCtrl'
+			controller: 'CohortsHomeCtrl'
 		})
 		.when('/:cohortId/portal', {
 			templateUrl: 'partials/portal.html',
