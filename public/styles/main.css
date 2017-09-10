@@ -1,11 +1,13 @@
 body {
 	font-family: "Montserrat","Lato",sans-serif;
 	/*background: url("/img/geo.png") no-repeat right top;*/
+	background-color: rgba(85, 85, 85, 0.6);
 }
 
 .home-header{
 	letter-spacing: 15px;
 	text-align: center;
+	color: white;
 }
 
 .portal-img {
@@ -13,7 +15,19 @@ body {
 }
 
 .footer {
+	color: white;
 	font-size: .75em;
 	letter-spacing: 9px;
 	text-align: center;
+}
+
+.student-header{
+	color: white;
+	letter-spacing: 15px;
+	text-align: center;
+}
+
+.corhort-tech {
+	width: 350px;
+	height: 200px;
 }
