@@ -1,0 +1,19 @@
+body {
+	font-family: "Montserrat","Lato",sans-serif;
+	/*background: url("/img/geo.png") no-repeat right top;*/
+}
+
+.home-header{
+	letter-spacing: 15px;
+	text-align: center;
+}
+
+.portal-img {
+
+}
+
+.footer {
+	font-size: .75em;
+	letter-spacing: 9px;
+	text-align: center;
+}
