@@ -1,0 +1,64 @@
+body {
+	font-family: "Montserrat","Lato",sans-serif;
+	/*background: url("/img/geo.png") no-repeat right top;*/
+	background-color: rgba(85, 85, 85, 0.6);
+}
+
+.home-header{
+	letter-spacing: 15px;
+	text-align: center;
+	color: white;
+}
+
+.portal-link{
+	color: #f5881f;
+	letter-spacing: 6px;
+}
+
+.portal-title {
+	letter-spacing: 6px;
+}
+
+.footer {
+	color: white;
+	font-size: .75em;
+	letter-spacing: 9px;
+	text-align: center;
+}
+
+/*STUDENT PORTAL*/
+.student-header{
+	color: white;
+	letter-spacing: 15px;
+	text-align: center;
+}
+
+.corhort-tech {
+	width: 350px;
+	height: 200px;
+}
+
+.cohort {
+	letter-spacing: 6px;
+}
+
+.cohort-link {
+	color: #f5881f;
+	letter-spacing: 6px;
+}
+
+.cohort-link-reveal{
+	color: #f5881f;
+}
+
+/*ONE-ON-ONE*/
+.checklist-card {
+	height: auto;
+	padding: 5px;
+}
+
+
+
+
+
+
