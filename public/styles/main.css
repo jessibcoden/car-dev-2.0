@@ -26,6 +26,7 @@ body {
 	text-align: center;
 }
 
+/*STUDENT PORTAL*/
 .student-header{
 	color: white;
 	letter-spacing: 15px;
@@ -48,6 +49,12 @@ body {
 
 .cohort-link-reveal{
 	color: #f5881f;
+}
+
+/*ONE-ON-ONE*/
+.checklist-card {
+	height: auto;
+	padding: 5px;
 }
 
 

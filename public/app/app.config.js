@@ -12,7 +12,7 @@ app.config(function($routeProvider) {
 			templateUrl: 'partials/portal.html',
 			controller: 'PortalCtrl'
 		})
-    .when('/:cohortId/one-on-one', {
+    	.when('/:cohortId/one-on-one', {
 			templateUrl: 'partials/one-on-one.html',
 			controller: 'OneOnOneCtrl'
 		})
